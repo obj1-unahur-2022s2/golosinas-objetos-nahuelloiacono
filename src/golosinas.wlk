@@ -1,3 +1,5 @@
+// Objetos 
+
 object bombon {
 	var peso = 15
 	
